@@ -1,0 +1,28 @@
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](images/dashboard_preview.png)
+
+---
+
+## 🛠️ How to Use
+
+1. Clone or download this repository.
+2. Open `Superstore_Sales.pbix` in Power BI Desktop.
+3. Use slicers to filter by region, category, customer segment, and product.
+4. Modify the dataset or visuals to suit your business use case.
+
+---
+
+## 🔓 License
+
+This project is open-source under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+## 🤝 Contributions
+
+Contributions, suggestions, and improvements are welcome. Fork the repo, make changes, and submit a pull request.
+
